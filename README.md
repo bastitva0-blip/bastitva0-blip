@@ -34,57 +34,15 @@ Currently pursuing a **Bachelor of Computer Applications (BCA)** at the **Univer
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Languages & Tools
 
-### Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,html,css,tailwind,vite,nodejs,fastapi,flask,mongodb,postgres,firebase,docker,aws,gcp,git,github,vscode,linux,bash,postman,tensorflow&perline=8"/>
+</p>
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### AI & Machine Learning
-
-* LangChain
-* LangGraph
-* Agentic AI
-* Multi-Agent Systems
-* RAG Pipelines
-* Google Gemini
-* Scikit-Learn
-* TensorFlow
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-
-### Backend
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
-
-### Database & Cloud
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Google Cloud](https://skillicons.dev/icons?i=gcp)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
----
+<p align="center">
+Machine Learning • LangChain • LangGraph • Agentic AI • RAG • Google Gemini • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn • Plotly
+</p>
 
 # 🚀 Featured Projects
 
