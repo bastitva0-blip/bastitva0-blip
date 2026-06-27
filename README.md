@@ -1,12 +1,16 @@
-# Hi there, I'm Astitva Bhardwaj 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:0EA5E9&height=220&section=header&text=Astitva%20Bhardwaj&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Builder%20%E2%80%A2%20Full-Stack%20Dev&descAlignY=58&animation=twinkling&fontColor=ffffff" width="100%"/>
+</p>
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d5M2lxd2t4NnNmbG93M3JwNnF3YWh2NXN6MW9wcjM5cXNwZjEwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=0EA5E9&center=true&vCenter=true&width=520&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;LLM-powered+Applications+%E2%9A%A1;RAG+Pipelines+%26+Agentic+AI+%F0%9F%94%97;Predictive+ML+Models+%F0%9F%93%8A;FastAPI+Backends+%F0%9F%9A%80;Full-Stack+Products+that+feel+like+magic+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-## 🚀 AI Engineer • Data Analyst • Full-Stack Developer
-
-I build intelligent software powered by **LLMs, Multi-Agent AI, Machine Learning, and Data Analytics** to solve real-world problems.
-
-Currently pursuing a **Bachelor of Computer Applications (BCA)** at the **University of Lucknow**, while building production-ready AI applications, predictive analytics platforms, and developer tools.
+<p align="center">
+  <a href="https://profile-banner.vercel.app/">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20View%20Interactive%20Banner-0EA5E9?style=for-the-badge&logoColor=white" alt="Live Banner"/>
+  </a>
+</p>
 
 ---
 
@@ -44,11 +48,15 @@ Currently pursuing a **Bachelor of Computer Applications (BCA)** at the **Univer
 Machine Learning • LangChain • LangGraph • Agentic AI • RAG • Google Gemini • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn • Plotly
 </p>
 
+---
+
 # 🚀 Featured Projects
 
 ### 🧠 GitScope AI
 
 A Multi-Agent GitHub code review extension powered by LangGraph that automatically analyzes repositories, detects best practices, and generates architecture diagrams.
+
+[→ View Project](https://github.com/bastitva0-blip/GITSCOPE-AI-EXTENSION)
 
 ---
 
@@ -56,11 +64,15 @@ A Multi-Agent GitHub code review extension powered by LangGraph that automatical
 
 AI-powered News Authenticity Verifier using Google Gemini 2.0 Flash capable of forensic fact-checking, bias detection, and claim-level verification.
 
+[→ View Project](https://github.com/bastitva0-blip/TruthLens-AI-Powered-NewsAuthenticity-Verifier-)
+
 ---
 
 ### 🚇 LkoMetro
 
 Offline-first Progressive Web App helping commuters navigate the Lucknow Metro with smart routing, fare calculation, and simulated live train tracking.
+
+[→ View Project](https://github.com/bastitva0-blip/LKOMETRO)
 
 ---
 
@@ -68,11 +80,23 @@ Offline-first Progressive Web App helping commuters navigate the Lucknow Metro w
 
 Machine Learning platform predicting Aadhaar center demand using Random Forest models trained on 1.5M+ transaction records.
 
+[→ View Project](https://github.com/bastitva0-blip/aadhaar-predictive-placement-framework)
+
+---
+
+### 🌾 KishanMind
+
+AI-powered agricultural intelligence platform helping farmers with crop advisory, disease detection, and market insights.
+
+[→ View Project](https://github.com/bastitva0-blip/kishanmind)
+
 ---
 
 ### 🚦 Urban Congestion Prediction API
 
 Production-ready FastAPI service using PostGIS and Gradient Boosting to predict urban traffic congestion from real-time GPS telemetry.
+
+[→ View Project](https://github.com/bastitva0-blip/urbancongestionsystemusingfastapi)
 
 ---
 
@@ -122,25 +146,10 @@ Production-ready FastAPI service using PostGIS and Gradient Boosting to predict 
 
 # 💡 Quote
 
-> *"Great software isn't built by writing more code,it's built by solving the right problems."*
+> *"Great software isn't built by writing more code — it's built by solving the right problems."*
 
 ---
 
-### ⭐ Thanks for visiting!
-
-If you enjoy my work, consider following me or starring one of my repositories.
-
-<!--
-**bastitva0-blip/bastitva0-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0EA5E9,100:7C3AED&height=120&section=footer" width="100%"/>
+</p>
