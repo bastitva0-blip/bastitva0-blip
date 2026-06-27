@@ -122,7 +122,7 @@ Production-ready FastAPI service using PostGIS and Gradient Boosting to predict 
 
 # 💡 Quote
 
-> *"Great software isn't built by writing more code—it's built by solving the right problems."*
+> *"Great software isn't built by writing more code,it's built by solving the right problems."*
 
 ---
 
