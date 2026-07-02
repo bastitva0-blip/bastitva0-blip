@@ -100,16 +100,12 @@ Production-ready FastAPI service using PostGIS and Gradient Boosting to predict 
 
 ---
 
+
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bastitva0-blip&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<img src="https://streak-stats.demolab.com/?user=bastitva0-blip&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastitva0-blip&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
+  <img src="./profile-stats/stats.svg" alt="GitHub Stats"/>
+  <img src="./profile-stats/top-langs.svg" alt="Top Languages"/>
 </p>
 
 
