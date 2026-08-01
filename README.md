@@ -34,7 +34,10 @@
 <a href="https://linkedin.com/in/astitva-bhardwajlu"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://astitva.itsfolio.tech"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:bhardwajastitvaworkmail@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/sponsors/bastitva0-blip"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/></a>
 </p>
+
+
 
 ---
 
@@ -111,12 +114,6 @@ Production-ready FastAPI service using PostGIS and Gradient Boosting to predict 
 
 
 
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bastitva0-blip\&theme=algolia\&no-frame=true\&row=1\&column=7)
 
 ---
 
